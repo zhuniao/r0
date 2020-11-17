@@ -5,5 +5,5 @@ import (
 )
 
 func TestSayHello(t *testing.T) {
-	SayHello("en")
+	SayHello()
 }
